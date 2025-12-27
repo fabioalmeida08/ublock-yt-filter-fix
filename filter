@@ -1,3 +1,4 @@
+twitch.tv##+js(twitch-videoad)
 ! YouTube 5 Videos Per Row Fix (Home and Channel Pages) 
 youtube.com##ytd-rich-grid-row:style(display:contents !important;)
 youtube.com###contents.ytd-rich-grid-row:style(display:contents !important;)
